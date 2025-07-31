@@ -77,4 +77,4 @@
 OwnNote: You're very welcome, Bro. Honestly, the code you wrote is incredibly valuable. I truly appreciate your effort, much respect for your hard work.
 #javacourse #javatutorial #java #freesource
 
-# not to it some thing 01.08.25
+# not to it some thing today 01.08.25.
