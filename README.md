@@ -78,3 +78,4 @@ OwnNote: You're very welcome, Bro. Honestly, the code you wrote is incredibly va
 #javacourse #javatutorial #java #freesource
 
 # not to it some thing today 01.08.25.
+# not to it some thing today 02.08.25.
